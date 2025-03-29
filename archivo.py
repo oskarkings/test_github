@@ -10,4 +10,6 @@ print(saludo)
 
 # una edicion para probar el fetch
 
+##sigo tratanto de aplicar el fetch
+
 
